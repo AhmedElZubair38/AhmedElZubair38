@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/code-daddycoolcool-gif-8491515)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![MasterHead](https://media.tenor.com/H_loBGkJiMYAAAAd/code-daddycoolcool.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <h1 align="center">Hi 👋, I'm Ahmed ElZubair</h1>
 <h3 align="center">A 3rd Year Comp Sci student passionate about Data Science and ML based in Dubai!</h3>
 
