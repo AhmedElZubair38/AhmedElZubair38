@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed ElZubair</h1>
 <h3 align="center">A 3rd Year Comp Sci student passionate about Data Science and ML based in Dubai!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelzubair38&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelzubair38" /> </p>
 
