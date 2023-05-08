@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelzubair38&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelzubair38" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedelzubair38" alt="ahmedelzubair38" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ahvxhd61" target="blank"><img src="https://img.shields.io/twitter/follow/ahvxhd61?logo=twitter&style=for-the-badge" alt="ahvxhd61" /></a> </p>
 
 - 🔭 I’m currently working on a **Simple Quran Player App**
