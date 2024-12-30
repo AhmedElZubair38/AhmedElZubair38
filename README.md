@@ -1,6 +1,6 @@
 [![MasterHead](https://s4.aconvert.com/convert/p3r68-cdx67/axbtr-0kjli.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <h1 align="center">Hi 👋, I'm Ahmed ElZubair</h1>
-<h3 align="center">A 3rd Year Comp Sci student passionate about Data Science and ML based in Dubai!</h3>
+<h3 align="center">I'm a Data Analyst @ OGH, passionate about Data Science and ML, based in Dubai!</h3>
 
 <p> 
 
